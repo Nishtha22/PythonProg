@@ -10,7 +10,7 @@ else:
 
 #use of find method
 """
-if string1.find(string1)!=-1:
+if string1.find(string2)!=-1:
     print("A substring")
 else:
     print("Not a substring")
