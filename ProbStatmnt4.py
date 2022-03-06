@@ -15,7 +15,7 @@ for char in my_str:
 #----------{'a': 2, 'e': 0, 'i': 2, 'o': 0, 'u': 0}------------------------------------------------------
 
 vowels="aeiou"
-str=my_str.casefold()   #To ignore the case
+str=my_str.casefold()   #To ignore the alphabet case
 dict={}.fromkeys(vowels,0)
 
 for i in str:
